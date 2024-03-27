@@ -1,3 +1,3 @@
 # Code Refactor
 First challenge in bootcamp
-Replacing div elements with semantic HTML elements
+Refactoring old code and updating it for the modern standards in accessibility and ease of reading
